@@ -6,7 +6,7 @@ It captures the subject who performed the activity for each window sample. Its r
 =============================================
 THE ACTIVITY VARIABLE (the 2nd variable):
 =============================================
-It captures the fact that each person performed one of six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+It captures the fact that, for each record, each person performed one of six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 =============================================
 FEATURES VARIABLES (the 3rd - 68th variables):
