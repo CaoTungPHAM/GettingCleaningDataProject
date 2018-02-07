@@ -16,7 +16,7 @@ was obtained by calculating variables from the time and frequency domain.
 
 For each record it is provided:
 - Its activity label and an identifier of the subject who carried out the experiment.
-- Followed by a 68-feature vector with time and frequency domain variables, which a an aggregate value of 
+- Followed by a 66-feature vector with time and frequency domain variables, which a an aggregate value of 
 the mean values and standard deviations of Triaxial acceleration from the accelerometer (total acceleration) 
 and the estimated body acceleration Triaxial Angular velocity from the gyroscope, associated to each group activity-subject.
 
