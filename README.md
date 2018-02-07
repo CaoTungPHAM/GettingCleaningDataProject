@@ -1,4 +1,7 @@
+===
 Human Activity Recognition Using Smartphones Dataset
+===
+
 Version by Cao-Tung PHAM
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
